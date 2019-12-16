@@ -1,0 +1,20 @@
+LOCUS       CMV                      601 bp ds-DNA     linear       15-DEC-2019
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    1..601
+                     /label="CMV"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+ORIGIN
+        1 gcgttgacat tgattattga ctagttatta atagtaatca attacggggt cattagttca
+       61 tagcccatat atggagttcc gcgttacata acttacggta aatggcccgc ctggctgacc
+      121 gcccaacgac ccccgcccat tgacgtcaat aatgacgtat gttcccatag taacgccaat
+      181 agggactttc cattgacgtc aatgggtgga gtatttacgg taaactgccc acttggcagt
+      241 acatcaagtg tatcatatgc caagtacgcc ccctattgac gtcaatgacg gtaaatggcc
+      301 cgcctggcat tatgcccagt acatgacctt atgggacttt cctacttggc agtacatcta
+      361 cgtattagtc atcgctatta ccatggtgat gcggttttgg cagtacatca atgggcgtgg
+      421 atagcggttt gactcacggg gatttccaag tctccacccc attgacgtca atgggagttt
+      481 gttttggcac caaaatcaac gggactttcc aaaatgtcgt aacaactccg ccccattgac
+      541 gcaaatgggc ggtaggcgtg tacggtggga ggtctatata agcagagctc tctggctaac
+      601 t
+//
